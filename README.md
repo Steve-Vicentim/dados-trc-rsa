@@ -6,4 +6,8 @@ A planilha reúne 200 testes computacionais para cada tamanho de chave (1024, 20
 
 O código utilizado nos experimentos está disponível no Apêndice A do artigo.
 
+📜 Script utilizado nos testes:
+- [`codigo_rsa_trc.py`](codigo_rsa_trc.py)
+
+
 > Artigo completo: [inserir link futuramente, se for publicado online]
