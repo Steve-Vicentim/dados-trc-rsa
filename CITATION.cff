@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se você utilizar estes dados, por favor cite como abaixo."
+authors:
+  - family-names: da Silva Vicentim
+    given-names: Steve
+    orcid: https://orcid.org/0009-0005-4867-9694  # (substitua pelo seu se tiver)
+title: Sobre sistemas de congruência lineares — Dados experimentais
+version: v1.0
+date-released: 2025-04-14
